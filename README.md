@@ -41,7 +41,7 @@ COLLEGE ADMISSION FORM
         <input type="tel" id="phone" name="phone" required placeholder="e.g. +91 5566998877"></div>
         <br>
         <div><label for="address">Address:</label>
-        <textarea id="address" name="address" rows="4" required></textarea></div>
+             <input type=" text" id="address " name="address " required></div>
         <br>
         <div><label for="qualification">Highest Qualification:</label>
         <input type="text" id="qualification" name="qualification" required></div>
